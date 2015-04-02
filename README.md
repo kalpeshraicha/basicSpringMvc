@@ -1,2 +1,2 @@
 # basicSpringMvc
-Basic Spring MCV application
+Basic Spring MCV application test
